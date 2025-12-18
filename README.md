@@ -1,4 +1,4 @@
-# blinkit_sale-dashboard
+# blinkit_sale_dashboard
 Blinkit Sales Dashboard 📊
 This project is an interactive Power BI dashboard designed to analyze and visualize Blinkit sales performance. The dashboard provides clear insights into sales trends, product performance, customer behavior, and revenue distribution using dynamic visuals and filters.
 
@@ -21,4 +21,4 @@ To help stakeholders quickly understand business performance, identify top-perfo
 
 4. Screenshort/demo
 Show what the dashboard look like.
-Example:![alter text]()
+Example:![alter text](https://github.com/pateltrupalll/blinkit_sale-dashboard/blob/main/Snapshort%20of%20the%20dashboard.png)
